@@ -15,7 +15,7 @@ a) set system scripts op file [script.py] command [script-alias]
 
 ## OP script
 ### bgp_sum.py
-Default show bgp summary, information about routes in second line, and u cant just use _**| match 192.168.1.1**_\
+Default >_show bgp summary_, information about routes in second line, and u cant just use _**| match 192.168.1.1**_\
 
 `192.168.1.1          ASnum   N    N       0       0 23w5d 0:41:47 Establ ` \
  `inet.0: N/N/N/N` 
